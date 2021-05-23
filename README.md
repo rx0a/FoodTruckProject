@@ -1,4 +1,4 @@
-# Food Truck
+# Food Truck Project
 
 ### Overview
 A food truck review program that allows the user to enter food truck names, types and rating for up to 5 food trucks. The user then can view the existing food truck information in a list, see the average of ratings, or the highest rated one. Each truck also has its own unique ID.
